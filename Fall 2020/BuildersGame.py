@@ -112,4 +112,3 @@ class BuildersGame:
             return True
 
         return False
-
